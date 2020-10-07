@@ -320,17 +320,17 @@ class Application:
     def __init__(self, master=None):
         # FRAME BUTTONS
         frame_home = Frame(background='#e8e8e8')
-        photo = PhotoImage(file="Preferences/config_icon.png")
+        photo = PhotoImage(file="images/config_icon.png")
         self.button_menu_config = Button(
             frame_home, image=photo)
         self.button_menu_config.image = photo
 
-        photo_scheduled = PhotoImage(file="Preferences/scheduled_icon.png")
+        photo_scheduled = PhotoImage(file="images/scheduled_icon.png")
         self.button_menu_scheduled = Button(
             frame_home, image=photo_scheduled)
         self.button_menu_scheduled.image = photo_scheduled
 
-        photo_transfer = PhotoImage(file="Preferences/transfer_icon.png")
+        photo_transfer = PhotoImage(file="images/transfer_icon.png")
         self.button_menu_transfer = Button(
             frame_home, image=photo_transfer)
         self.button_menu_transfer.image = photo_transfer

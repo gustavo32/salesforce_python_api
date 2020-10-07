@@ -53,8 +53,8 @@ class Parser:
         need_analysis = []
         paths = self.get_list_files()
 
-        if os.path.isfile('history_files.txt'):
-            with open('history_files.txt', 'r') as f:
+        if os.path.isfile('settings/history_files.txt'):
+            with open('settings/history_files.txt', 'r') as f:
                 history_paths = f.read().split('\n')
 
             for path in paths:

@@ -4,7 +4,7 @@ from simple_salesforce import Salesforce, SalesforceLogin, SFType
 import os
 import re
 
-preference_fname = 'Preferences/preferences.json'
+preference_fname = 'settings/preferences.json'
 
 
 def read_preferences():

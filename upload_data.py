@@ -58,7 +58,7 @@ def auto_update_records_from_operators_sheets():
             del record['Aircraft_Register__c']
 
         results = sf_api.insert('Out_of_service__c', records)
-        with open('history_files.txt', 'a+') as f:
+        with open('settings/history_files.txt', 'a+') as f:
             f.write('\n'.join(analyzed_files) + '\n')
 
         errors = []
