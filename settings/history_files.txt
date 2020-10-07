@@ -1,0 +1,9 @@
+../1 - OPERADORES/1 - Dados recebidos/5 - LATIN AMERICA/AZUL/2020/04/OOS_DATA E2 April2020.xlsx
+../1 - OPERADORES/1 - Dados recebidos/5 - LATIN AMERICA/AZUL/2020/05/OOS_DATA E1 & E2 May2020.xlsx
+../1 - OPERADORES/1 - Dados recebidos/4 - EMEA/WIDEROE/2020/04/OOS_DATA_Last_Calender_Month_E190-E2-APR-2020.xlsx
+../1 - OPERADORES/1 - Dados recebidos/4 - EMEA/WIDEROE/2020/04/OOS_DATA_Last_Calender_Month_E190-E2.xlsx
+../1 - OPERADORES/1 - Dados recebidos/4 - EMEA/WIDEROE/2020/06/OOS_DATA Jun 2020 E2 - Wideroe.xlsx
+../1 - OPERADORES/1 - Dados recebidos/4 - EMEA/HELVETIC AIRWAYS/2020/03/OOS_DATA2020-03E2.xlsx
+../1 - OPERADORES/1 - Dados recebidos/4 - EMEA/HELVETIC AIRWAYS/2020/04/OOS_DATA2020-04E2.xlsx
+../1 - OPERADORES/1 - Dados recebidos/4 - EMEA/AIR ASTANA/2020/05/OOS_DATA time Embraer MAY 2020.xlsx
+../1 - OPERADORES/1 - Dados recebidos/4 - EMEA/AIR ASTANA/2020/06/OOS_DATA time Embraer JUN 2020.xlsx
